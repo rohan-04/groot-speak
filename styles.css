@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Gemunu+Libre:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Overlock:wght@400;700&display=swap');
 
 :root {
 	--primary-color: #805e4b;
@@ -9,7 +9,7 @@
 	box-sizing: border-box;
 	margin: 0rem;
 	padding: 0rem;
-	font-family: 'Gemunu Libre', sans-serif;
+	font-family: 'Overlock', cursive;
 }
 
 body {
@@ -38,6 +38,7 @@ nav {
 	height: 120px;
 	display: block;
 	padding: 1rem;
+	font-size: 2rem;
 }
 
 button {
